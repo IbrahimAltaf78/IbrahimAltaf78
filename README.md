@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-## Hi there 👋
 
 <!--
 **IbrahimAltaf78/IbrahimAltaf78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
