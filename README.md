@@ -26,6 +26,12 @@
 - SQL
 - Linux
 - Ethical Hacking Fundamentals
+
+- ## ⚙️ Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,linux,vscode,mysql" />
+</p>
 <!--
 **IbrahimAltaf78/IbrahimAltaf78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
